@@ -1,0 +1,611 @@
+[
+    {
+        "name": "Мопс",
+        "size": "small",
+        "country_of_origin" : "Древний Китай",
+        "good_for_apartment": true,
+        "health": 1,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Восточноевропейская овчарка",
+        "size": "big",
+        "country_of_origin" : "Россия",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Австралийская овчарка",
+        "size": "medium",
+        "country_of_origin" : "США",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Белая швейцарская овчарка",
+        "size": "big",
+        "country_of_origin" : "Швейцария",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 4,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Кавказская овчарка",
+        "size": "big",
+        "country_of_origin" : "Россия",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Английский мастиф",
+        "size": "big",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 1,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Бульмастиф",
+        "size": "big",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 2,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+    {
+        "name": "Аффенпинчер",
+        "size": "small",
+        "country_of_origin" : "Германия",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 3,
+        "friendliness": 2,
+        "noise": 4,
+        "endures_loneliness": 1
+    },
+    {
+        "name": "Русский черный терьер",
+        "size": "big",
+        "country_of_origin" : "СССР",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 1,
+        "endures_loneliness": 1
+    },
+    {
+        "name": "Ризеншнауцер",
+        "size": "big",
+        "country_of_origin" : "Германия",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Миттельшнауцер",
+        "size": "medium",
+        "country_of_origin" : "Германская Империя",
+        "good_for_apartment": true,
+        "health": 5,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Бернский зенненхунд",
+        "size": "big",
+        "country_of_origin" : "Швейцария",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Золотистый ретривер",
+        "size": "big",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 3,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Афганская борзая",
+        "size": "big",
+        "country_of_origin" : "Афганистан",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 1,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Русская охотничья борзая",
+        "size": "big",
+        "country_of_origin" : "Россия",
+        "good_for_apartment": false,
+        "health": 2,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 1,
+        "endures_loneliness": 4
+    },
+
+    {
+        "name": "Ирландский волкодав",
+        "size": "big",
+        "country_of_origin" : "Ирландия",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Бассет-хаунд",
+        "size": "medium",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 1,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Далматинец",
+        "size": "big",
+        "country_of_origin" : "Хорватия",
+        "good_for_apartment": false,
+        "health": 2,
+        "intelligence": 4,
+        "friendliness": 5,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Родезийский риджбек",
+        "size": "big",
+        "country_of_origin" : "Южная Родезия",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 1,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Пражский крысарик",
+        "size": "small",
+        "country_of_origin" : "Чехия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Русский той терьер",
+        "size": "small",
+        "country_of_origin" : "Россия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Кавалер кинг чарльз спаниель",
+        "size": "small",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 5,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Бишон фризе",
+        "size": "small",
+        "country_of_origin" : "Франция",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Гаванский бишон",
+        "size": "small",
+        "country_of_origin" : "Куба",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Китайская хохлатая собака",
+        "size": "small",
+        "country_of_origin" : "Китай",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Бельгийский грифон",
+        "size": "small",
+        "country_of_origin" : "Бельгия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 1,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Пти-брабансон",
+        "size": "small",
+        "country_of_origin" : "Бельгия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 1,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Бостон терьер",
+        "size": "small",
+        "country_of_origin" : "США",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 3,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Большой пудель",
+        "size": "medium",
+        "country_of_origin" : "Франция",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Маленький пудель",
+        "size": "small",
+        "country_of_origin" : "Франция",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Миниатюрный пудель",
+        "size": "small",
+        "country_of_origin" : "Франция",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Лхаса апсо",
+        "size": "small",
+        "country_of_origin" : "Тибет",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Чихуахуа",
+        "size": "small",
+        "country_of_origin" : "Мексика",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Пекинес",
+        "size": "small",
+        "country_of_origin" : "Китай",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Японский хин",
+        "size": "small",
+        "country_of_origin" : "Япония",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Пойнтер",
+        "size": "big",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": false,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Английский сеттер",
+        "size": "big",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Веймаранер",
+        "size": "big",
+        "country_of_origin" : "Германия",
+        "good_for_apartment": false,
+        "health": 2,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Карликовая такса",
+        "size": "small",
+        "country_of_origin" : "Германия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Такса",
+        "size": "small",
+        "country_of_origin" : "Германия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Стаффордширский бультерьер",
+        "size": "medium",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Бедлингтон терьер",
+        "size": "medium",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Вельш терьер",
+        "size": "medium",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Джек рассел терьер",
+        "size": "small",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 3,
+        "noise": 5,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Йоркширский терьер",
+        "size": "small",
+        "country_of_origin" : "Англия",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Акита-ину",
+        "size": "big",
+        "country_of_origin" : "Япония",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Померанский шпиц",
+        "size": "small",
+        "country_of_origin" : "Германия",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Ксолоитцкуинтли",
+        "size": "small",
+        "country_of_origin" : "Мексика",
+        "good_for_apartment": true,
+        "health": 5,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 4,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Аляскинский маламут",
+        "size": "big",
+        "country_of_origin" : "США",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 2,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Восточно-сибирская лайка",
+        "size": "big",
+        "country_of_origin" : "СССР",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 5,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Западно-сибирская лайка",
+        "size": "big",
+        "country_of_origin" : "СССР",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 1,
+        "endures_loneliness": 2
+    }
+    
+]

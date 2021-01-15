@@ -1,0 +1,611 @@
+[
+    {
+        "name": "Pug",
+        "size": "small",
+        "country_of_origin" : "Ancient China",
+        "good_for_apartment": true,
+        "health": 1,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "East European Shepherd",
+        "size": "big",
+        "country_of_origin" : "Russia",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Australian Shepherd",
+        "size": "medium",
+        "country_of_origin" : "USA",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "White swiss shepherd",
+        "size": "big",
+        "country_of_origin" : "Switzerland",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 4,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Caucasian Shepherd Dog",
+        "size": "big",
+        "country_of_origin" : "Russia",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "English mastiff",
+        "size": "big",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 1,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Bullmastiff",
+        "size": "big",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 2,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+    {
+        "name": "Affenpinscher",
+        "size": "small",
+        "country_of_origin" : "Germany",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 3,
+        "friendliness": 2,
+        "noise": 4,
+        "endures_loneliness": 1
+    },
+    {
+        "name": "Black russian terrier",
+        "size": "big",
+        "country_of_origin" : "USSR",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 1,
+        "endures_loneliness": 1
+    },
+    {
+        "name": "Giant Schnauzer",
+        "size": "big",
+        "country_of_origin" : "Germany",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Mittel schnauzer",
+        "size": "medium",
+        "country_of_origin" : "German empire",
+        "good_for_apartment": true,
+        "health": 5,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Bernese mountain dog",
+        "size": "big",
+        "country_of_origin" : "Switzerland",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Golden retriever",
+        "size": "big",
+        "country_of_origin" : "England",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 3,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Afghan Hound",
+        "size": "big",
+        "country_of_origin" : "Afghanistan",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 1,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Russian hunting greyhound",
+        "size": "big",
+        "country_of_origin" : "Russia",
+        "good_for_apartment": false,
+        "health": 2,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 1,
+        "endures_loneliness": 4
+    },
+
+    {
+        "name": "Irish wolfhound",
+        "size": "big",
+        "country_of_origin" : "Ireland",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Basset Hound",
+        "size": "medium",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 1,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Dalmatian",
+        "size": "big",
+        "country_of_origin" : "Croatia",
+        "good_for_apartment": false,
+        "health": 2,
+        "intelligence": 4,
+        "friendliness": 5,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Rhodesian Ridgeback",
+        "size": "big",
+        "country_of_origin" : "Southern Rhodesia",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 1,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Prague ratter",
+        "size": "small",
+        "country_of_origin" : "Czech",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Russian Toy Terrier",
+        "size": "small",
+        "country_of_origin" : "Russia",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Cavalier king charles spaniel",
+        "size": "small",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 5,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Bichon Frize",
+        "size": "small",
+        "country_of_origin" : "France",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Havana Bichon",
+        "size": "small",
+        "country_of_origin" : "Cuba",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Chinese crested dog",
+        "size": "small",
+        "country_of_origin" : "China",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Belgian griffon",
+        "size": "small",
+        "country_of_origin" : "Belgium",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 1,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Petit Brabancon",
+        "size": "small",
+        "country_of_origin" : "Belgium",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 1,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Boston terrier",
+        "size": "small",
+        "country_of_origin" : "USA",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 3,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Big poodle",
+        "size": "medium",
+        "country_of_origin" : "France",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Small poodle",
+        "size": "small",
+        "country_of_origin" : "France",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Miniature poodle",
+        "size": "small",
+        "country_of_origin" : "France",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 5,
+        "friendliness": 4,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Lhasa Apso",
+        "size": "small",
+        "country_of_origin" : "Tibet",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Chihuahua",
+        "size": "small",
+        "country_of_origin" : "Mexico",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Pekingese",
+        "size": "small",
+        "country_of_origin" : "China",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Japanese Chin",
+        "size": "small",
+        "country_of_origin" : "Japan",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "English Pointer",
+        "size": "big",
+        "country_of_origin" : "England",
+        "good_for_apartment": false,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "English setter",
+        "size": "big",
+        "country_of_origin" : "England",
+        "good_for_apartment": false,
+        "health": 3,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Weimaraner",
+        "size": "big",
+        "country_of_origin" : "Germany",
+        "good_for_apartment": false,
+        "health": 2,
+        "intelligence": 5,
+        "friendliness": 5,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Dachshund",
+        "size": "small",
+        "country_of_origin" : "Germany",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Dwarf dachshund",
+        "size": "small",
+        "country_of_origin" : "Germany",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 3,
+        "noise": 3,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Staffordshire bull terrier",
+        "size": "medium",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Bedlington Terrier",
+        "size": "medium",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Welsh terrier",
+        "size": "medium",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Jack Russell Terrier",
+        "size": "small",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 3,
+        "intelligence": 4,
+        "friendliness": 3,
+        "noise": 5,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Yorkshire Terrier",
+        "size": "small",
+        "country_of_origin" : "England",
+        "good_for_apartment": true,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 2,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Akita Inu",
+        "size": "big",
+        "country_of_origin" : "Japan",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 2,
+        "endures_loneliness": 3
+    },
+
+    {
+        "name": "Pomeranian",
+        "size": "small",
+        "country_of_origin" : "Germany",
+        "good_for_apartment": true,
+        "health": 2,
+        "intelligence": 3,
+        "friendliness": 4,
+        "noise": 4,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "Xoloitzcuintle",
+        "size": "small",
+        "country_of_origin" : "Mexico",
+        "good_for_apartment": true,
+        "health": 5,
+        "intelligence": 3,
+        "friendliness": 3,
+        "noise": 4,
+        "endures_loneliness": 1
+    },
+
+    {
+        "name": "Alaskan malamute",
+        "size": "big",
+        "country_of_origin" : "USA",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 2,
+        "noise": 3,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "East Siberian Laika",
+        "size": "big",
+        "country_of_origin" : "USSR",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 4,
+        "friendliness": 4,
+        "noise": 5,
+        "endures_loneliness": 2
+    },
+
+    {
+        "name": "West Siberian Laika",
+        "size": "big",
+        "country_of_origin" : "USSR",
+        "good_for_apartment": false,
+        "health": 4,
+        "intelligence": 3,
+        "friendliness": 5,
+        "noise": 1,
+        "endures_loneliness": 2
+    }
+    
+]

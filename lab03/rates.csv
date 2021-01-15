@@ -1,0 +1,361 @@
+Noah,Australian Shepherd,5
+Noah,English Pointer,3
+Noah,Xoloitzcuintle,3
+Noah,Big poodle,3
+Noah,Black russian terrier,2
+Noah,Golden retriever,1
+Noah,Rhodesian Ridgeback,5
+Noah,Miniature poodle,2
+Noah,East Siberian Laika,5
+Noah,Irish wolfhound,1
+Noah,Affenpinscher,1
+Noah,Dachshund,1
+Noah,Prague ratter,4
+Noah,Yorkshire Terrier,1
+Noah,Pug,4
+Noah,Bedlington Terrier,4
+Noah,Pomeranian,3
+Noah,Dalmatian,1
+Noah,Afghan Hound,4
+Noah,Giant Schnauzer,1
+Noah,Small poodle,3
+Noah,Japanese Chin,5
+Noah,Cavalier king charles spaniel,2
+Noah,Basset Hound,2
+Noah,Jack Russell Terrier,2
+Noah,Havana Bichon,1
+Liam,English setter,4
+Liam,Caucasian Shepherd Dog,3
+Liam,Rhodesian Ridgeback,3
+Liam,Affenpinscher,3
+Liam,Russian Toy Terrier,1
+Liam,Giant Schnauzer,3
+Liam,Chihuahua,4
+Liam,Pug,4
+Liam,Alaskan malamute,3
+Liam,East Siberian Laika,5
+Liam,Afghan Hound,4
+Liam,White swiss shepherd,5
+Liam,Australian Shepherd,2
+Liam,Belgian griffon,4
+Liam,Chinese crested dog,5
+Liam,English mastiff,5
+Liam,Prague ratter,3
+Liam,Black russian terrier,4
+Liam,Bedlington Terrier,5
+Liam,Russian hunting greyhound,3
+Liam,Lhasa Apso,1
+Liam,Xoloitzcuintle,2
+Liam,Pomeranian,4
+Liam,Mittel schnauzer,3
+Liam,Cavalier king charles spaniel,4
+Liam,Small poodle,1
+Liam,Japanese Chin,5
+Liam,Akita Inu,5
+Liam,Golden retriever,1
+Liam,Bichon Frize,3
+Jacob,Mittel schnauzer,4
+Jacob,Lhasa Apso,2
+Jacob,Australian Shepherd,2
+Jacob,Golden retriever,3
+Jacob,Bernese mountain dog,4
+Jacob,Irish wolfhound,2
+Jacob,East European Shepherd,1
+Jacob,English setter,5
+Jacob,Yorkshire Terrier,5
+Jacob,White swiss shepherd,5
+Jacob,Xoloitzcuintle,5
+Jacob,Akita Inu,1
+Jacob,Staffordshire bull terrier,4
+Jacob,Basset Hound,3
+Jacob,Alaskan malamute,4
+Jacob,Giant Schnauzer,2
+Jacob,Petit Brabancon,4
+Jacob,Bedlington Terrier,5
+Jacob,English mastiff,5
+Jacob,Small poodle,1
+Jacob,Pomeranian,3
+Mason,White swiss shepherd,3
+Mason,Japanese Chin,5
+Mason,Rhodesian Ridgeback,1
+Mason,East European Shepherd,2
+Mason,Akita Inu,2
+Mason,English Pointer,5
+Mason,Irish wolfhound,1
+Mason,Dwarf dachshund,5
+Mason,Caucasian Shepherd Dog,5
+Mason,English mastiff,5
+Mason,Jack Russell Terrier,4
+Mason,Dachshund,1
+Mason,Miniature poodle,4
+Mason,Prague ratter,2
+Mason,Lhasa Apso,3
+Mason,Small poodle,3
+Mason,Pug,3
+William,Irish wolfhound,4
+William,Miniature poodle,1
+William,English mastiff,2
+William,English setter,5
+William,Chinese crested dog,3
+William,Pug,4
+William,East Siberian Laika,3
+William,Jack Russell Terrier,4
+William,Afghan Hound,1
+William,Xoloitzcuintle,2
+William,Black russian terrier,3
+William,Akita Inu,4
+William,Rhodesian Ridgeback,3
+William,Staffordshire bull terrier,1
+William,Russian hunting greyhound,4
+William,Basset Hound,3
+William,Giant Schnauzer,1
+William,Affenpinscher,1
+William,Small poodle,2
+William,Boston terrier,3
+William,Dalmatian,2
+William,Bullmastiff,5
+William,Weimaraner,3
+Ethan,Russian hunting greyhound,3
+Ethan,White swiss shepherd,3
+Ethan,Belgian griffon,3
+Ethan,Russian Toy Terrier,5
+Ethan,Mittel schnauzer,5
+Ethan,Small poodle,1
+Ethan,Xoloitzcuintle,4
+Ethan,Pug,3
+Ethan,English setter,5
+Ethan,Afghan Hound,4
+Ethan,English Pointer,2
+Ethan,Boston terrier,3
+Ethan,Pomeranian,1
+Ethan,Staffordshire bull terrier,5
+Ethan,Big poodle,5
+Ethan,Bullmastiff,1
+Ethan,Weimaraner,3
+Ethan,Jack Russell Terrier,5
+Ethan,Basset Hound,4
+Ethan,Dalmatian,2
+Ethan,East European Shepherd,5
+Ethan,Japanese Chin,1
+Ethan,Irish wolfhound,3
+Michael,Prague ratter,4
+Michael,White swiss shepherd,4
+Michael,Boston terrier,1
+Michael,Dwarf dachshund,1
+Michael,Rhodesian Ridgeback,2
+Michael,Affenpinscher,1
+Michael,Giant Schnauzer,3
+Michael,Lhasa Apso,5
+Michael,Big poodle,5
+Michael,Chinese crested dog,4
+Michael,Bichon Frize,3
+Michael,Xoloitzcuintle,4
+Michael,Belgian griffon,4
+Michael,English mastiff,4
+Michael,Pomeranian,4
+Michael,Russian hunting greyhound,1
+Michael,Havana Bichon,4
+Alexander,Staffordshire bull terrier,3
+Alexander,Dwarf dachshund,4
+Alexander,Havana Bichon,1
+Alexander,Chinese crested dog,3
+Alexander,Cavalier king charles spaniel,3
+Alexander,Xoloitzcuintle,2
+Alexander,Russian Toy Terrier,4
+Alexander,Yorkshire Terrier,2
+Alexander,Mittel schnauzer,4
+Alexander,Australian Shepherd,4
+Alexander,Boston terrier,1
+Alexander,Rhodesian Ridgeback,1
+Alexander,Russian hunting greyhound,5
+Alexander,Pomeranian,4
+Alexander,Affenpinscher,5
+Alexander,Belgian griffon,3
+James,Welsh terrier,5
+James,East European Shepherd,4
+James,English setter,4
+James,Weimaraner,4
+James,Cavalier king charles spaniel,5
+James,Jack Russell Terrier,3
+James,Russian Toy Terrier,2
+James,Japanese Chin,5
+James,Prague ratter,1
+James,Havana Bichon,4
+James,Bullmastiff,5
+James,Rhodesian Ridgeback,3
+James,Pug,3
+James,Dwarf dachshund,4
+James,East Siberian Laika,4
+James,Russian hunting greyhound,1
+James,Alaskan malamute,5
+James,Mittel schnauzer,5
+James,Irish wolfhound,5
+James,English Pointer,5
+James,Dalmatian,2
+James,Yorkshire Terrier,2
+James,Staffordshire bull terrier,2
+James,Dachshund,5
+James,Lhasa Apso,5
+James,Bernese mountain dog,3
+Elijah,Staffordshire bull terrier,5
+Elijah,Pekingese,1
+Elijah,Dachshund,2
+Elijah,Alaskan malamute,1
+Elijah,Australian Shepherd,4
+Elijah,English setter,3
+Elijah,Big poodle,5
+Elijah,Giant Schnauzer,4
+Elijah,Petit Brabancon,2
+Elijah,East European Shepherd,1
+Elijah,Afghan Hound,4
+Elijah,Russian hunting greyhound,1
+Elijah,Jack Russell Terrier,4
+Elijah,Japanese Chin,1
+Elijah,Chinese crested dog,4
+Elijah,Miniature poodle,5
+Elijah,Xoloitzcuintle,2
+Elijah,East Siberian Laika,5
+Elijah,Affenpinscher,1
+Elijah,Belgian griffon,5
+Elijah,Yorkshire Terrier,2
+Elijah,Cavalier king charles spaniel,2
+Elijah,White swiss shepherd,1
+Elijah,English Pointer,5
+Elijah,Small poodle,2
+Elijah,Bedlington Terrier,5
+Elijah,Russian Toy Terrier,3
+Emma,Small poodle,2
+Emma,Bichon Frize,4
+Emma,Bullmastiff,2
+Emma,Dwarf dachshund,2
+Emma,Boston terrier,1
+Emma,Pug,5
+Emma,Lhasa Apso,4
+Emma,East European Shepherd,2
+Emma,Prague ratter,2
+Emma,Japanese Chin,1
+Emma,Basset Hound,1
+Emma,Russian Toy Terrier,1
+Emma,Pomeranian,5
+Emma,English setter,4
+Emma,Big poodle,4
+Emma,Chihuahua,5
+Emma,Akita Inu,3
+Emma,Caucasian Shepherd Dog,4
+Emma,Giant Schnauzer,1
+Olivia,Belgian griffon,2
+Olivia,Pekingese,1
+Olivia,Pomeranian,3
+Olivia,Jack Russell Terrier,4
+Olivia,Caucasian Shepherd Dog,2
+Olivia,Prague ratter,1
+Olivia,Havana Bichon,4
+Olivia,Irish wolfhound,2
+Olivia,Bullmastiff,2
+Olivia,English Pointer,4
+Olivia,Russian hunting greyhound,1
+Olivia,Golden retriever,3
+Olivia,Australian Shepherd,2
+Olivia,Russian Toy Terrier,5
+Olivia,Pug,5
+Olivia,Boston terrier,5
+Olivia,Miniature poodle,1
+Olivia,Bichon Frize,1
+Olivia,Giant Schnauzer,2
+Olivia,Mittel schnauzer,5
+Olivia,Xoloitzcuintle,4
+Olivia,Staffordshire bull terrier,5
+Olivia,Lhasa Apso,4
+Olivia,Alaskan malamute,2
+Olivia,Big poodle,5
+Olivia,Chihuahua,2
+Olivia,Cavalier king charles spaniel,5
+Olivia,Petit Brabancon,4
+Olivia,English mastiff,1
+Olivia,Welsh terrier,1
+Olivia,Rhodesian Ridgeback,1
+Olivia,Japanese Chin,2
+Olivia,Basset Hound,3
+Olivia,Yorkshire Terrier,2
+Olivia,Dalmatian,2
+Olivia,Weimaraner,3
+Ava,Bullmastiff,2
+Ava,English mastiff,5
+Ava,English setter,1
+Ava,Small poodle,5
+Ava,Australian Shepherd,2
+Ava,Bernese mountain dog,1
+Ava,Irish wolfhound,3
+Ava,Dachshund,1
+Ava,Jack Russell Terrier,1
+Ava,Boston terrier,1
+Ava,Yorkshire Terrier,3
+Ava,Giant Schnauzer,3
+Ava,Rhodesian Ridgeback,2
+Ava,Mittel schnauzer,4
+Ava,Golden retriever,1
+Ava,Lhasa Apso,4
+Ava,Havana Bichon,2
+Ava,Caucasian Shepherd Dog,5
+Ava,Miniature poodle,3
+Ava,English Pointer,5
+Ava,Affenpinscher,1
+Ava,Pomeranian,3
+Ava,Chinese crested dog,1
+Ava,Bichon Frize,1
+Ava,Japanese Chin,2
+Ava,Dalmatian,2
+Ava,Akita Inu,3
+Ava,Black russian terrier,1
+Ava,Staffordshire bull terrier,4
+Ava,Petit Brabancon,2
+Isabella,Havana Bichon,4
+Isabella,Japanese Chin,2
+Isabella,Yorkshire Terrier,3
+Isabella,White swiss shepherd,2
+Isabella,Cavalier king charles spaniel,1
+Isabella,Black russian terrier,5
+Isabella,Xoloitzcuintle,3
+Isabella,Irish wolfhound,5
+Isabella,Pekingese,5
+Isabella,Dwarf dachshund,1
+Isabella,Basset Hound,5
+Isabella,Australian Shepherd,4
+Isabella,Affenpinscher,1
+Isabella,Golden retriever,1
+Isabella,Russian Toy Terrier,1
+Isabella,Prague ratter,1
+Isabella,Bullmastiff,1
+Isabella,Weimaraner,1
+Isabella,Boston terrier,2
+Isabella,Chinese crested dog,1
+Sophia,Bichon Frize,2
+Sophia,Black russian terrier,5
+Sophia,Dwarf dachshund,2
+Sophia,Prague ratter,3
+Sophia,Weimaraner,2
+Sophia,Afghan Hound,1
+Sophia,Pekingese,4
+Sophia,Belgian griffon,2
+Sophia,Welsh terrier,2
+Sophia,Small poodle,1
+Sophia,Yorkshire Terrier,3
+Sophia,Pomeranian,1
+Sophia,Dalmatian,3
+Sophia,Basset Hound,2
+Sophia,Bullmastiff,3
+Sophia,Russian Toy Terrier,5
+Sophia,Miniature poodle,1
+Sophia,Cavalier king charles spaniel,3
+Sophia,Akita Inu,3
+Sophia,Japanese Chin,3
+Sophia,Chihuahua,2
+Sophia,Big poodle,2
+Sophia,Australian Shepherd,4
+Sophia,Lhasa Apso,3
+Sophia,Jack Russell Terrier,3
+Sophia,Alaskan malamute,2
+Sophia,Staffordshire bull terrier,1
+Sophia,Pug,2
+Sophia,Golden retriever,5
+Sophia,Mittel schnauzer,3
