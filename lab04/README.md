@@ -16,6 +16,6 @@ c = a - b/(i + 1), где i - номер позиции породы в спис
 Породы сортируются по новому коэффициенту с, выбирается 5 лучших.  
 При использовании с = a - b, в топе рекомендаций часто оказываются породы из середины списков. Это не очень хороший результат для РС. Поэтому было принято решение, что лайки должны иметь больший вес, чем дизлайки, но при этом породы, которые стоят в списке дизлайков близко к началу точно не должны попадать в рекомендации.
 ## Пример работы
-![https://sun9-53.userapi.com/impf/oNKGkakf_yH3-X5DxdjU9_EOf5NgUyBVIDWVRw/X3Q0Jz0ecqE.jpg?size=588x375&quality=96&proxy=1&sign=5dd81106593c5aff4c3f3d63a9ae3bf3&type=album]  
-![https://sun9-70.userapi.com/impf/5v-SeQcJul2DFQTSbA-87iwbVuGSnGXNrrA6WA/fcOBI4N9MAs.jpg?size=623x380&quality=96&proxy=1&sign=003d30171544a0051f4fde5c6b84b078&type=album]  
-![https://sun9-54.userapi.com/impf/J_qNV8bjY12hG4wgDeHRxZbgDrCj5hZvJ07gpg/LoqFpEUPv2E.jpg?size=675x438&quality=96&proxy=1&sign=ca9f0d8942a2e2ac06936ddfe61cc6b7&type=album]
+![alt text](https://sun9-53.userapi.com/impf/oNKGkakf_yH3-X5DxdjU9_EOf5NgUyBVIDWVRw/X3Q0Jz0ecqE.jpg?size=588x375&quality=96&proxy=1&sign=5dd81106593c5aff4c3f3d63a9ae3bf3&type=album)  
+![alt text](https://sun9-70.userapi.com/impf/5v-SeQcJul2DFQTSbA-87iwbVuGSnGXNrrA6WA/fcOBI4N9MAs.jpg?size=623x380&quality=96&proxy=1&sign=003d30171544a0051f4fde5c6b84b078&type=album)  
+![alt text](https://sun9-54.userapi.com/impf/J_qNV8bjY12hG4wgDeHRxZbgDrCj5hZvJ07gpg/LoqFpEUPv2E.jpg?size=675x438&quality=96&proxy=1&sign=ca9f0d8942a2e2ac06936ddfe61cc6b7&type=album)
