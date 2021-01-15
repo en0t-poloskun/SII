@@ -19,5 +19,5 @@ k > 0 - прямая зависимость (Если 1-й пользовате�
 ## Пример работы
 Примечание: Коэффициенты корреляции пород больше 1, т. к. они изменяются в процессе вычислений алгоритма коллаборативной фильтрации.  
 ![alt text](https://sun9-48.userapi.com/impf/qLW-R2vSQOBsHrF9y9hkXW1i-aaFXTDSNA_Lfw/lLJraPgWgN0.jpg?size=1099x573&quality=96&proxy=1&sign=7d90d4376843e6aae40a4e8e8edbbe54&type=album)  
-![https://sun9-60.userapi.com/impf/re0JnUDCAGXAb_HVrsrI0hy6C9h9vTi_MEj2Nw/0-UPZph_euA.jpg?size=510x226&quality=96&proxy=1&sign=61225e3b8c35eb6cfa06ee44bbb53063&type=album]  
-![https://sun9-27.userapi.com/impf/nzSPwnPNnT8YqC3WZzgS9NeYzIHYlvh4IZvh0A/funTit0Kjho.jpg?size=662x516&quality=96&proxy=1&sign=dabf49203070039853217d1ebf61f4a0&type=album]
+![alt text](https://sun9-60.userapi.com/impf/re0JnUDCAGXAb_HVrsrI0hy6C9h9vTi_MEj2Nw/0-UPZph_euA.jpg?size=510x226&quality=96&proxy=1&sign=61225e3b8c35eb6cfa06ee44bbb53063&type=album)
+![alt text](https://sun9-27.userapi.com/impf/nzSPwnPNnT8YqC3WZzgS9NeYzIHYlvh4IZvh0A/funTit0Kjho.jpg?size=662x516&quality=96&proxy=1&sign=dabf49203070039853217d1ebf61f4a0&type=album)
