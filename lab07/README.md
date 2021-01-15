@@ -1,4 +1,4 @@
-# Поиск по параметрическому запросу
+# Диалоговая система
 Рекомендательная система выбирает для пользователя подходящую ему породу собак.  
 **lab02.json** - файл содержит описание пород собак с их характеристиками **на русском языке**.  
 **breed.txt** - файл содержит список всех пород системы **на русском языке**.
@@ -37,4 +37,4 @@
 5. Спросить мнения о собаке  
 'ты' и {'нравиться', 'любить'}  
 ## Отрывок диалога 
-![https://sun9-40.userapi.com/impf/H-7wJV4OsKLn-2SiyoqPTQZuYKJwDeO_PuFcvA/Aaiu9Uq7o-A.jpg?size=1268x778&quality=96&proxy=1&sign=fe5f1d826ce812f8d9b8c39a23dee5ff&type=album]
+![alt text](https://sun9-40.userapi.com/impf/H-7wJV4OsKLn-2SiyoqPTQZuYKJwDeO_PuFcvA/Aaiu9Uq7o-A.jpg?size=1268x778&quality=96&proxy=1&sign=fe5f1d826ce812f8d9b8c39a23dee5ff&type=album)
